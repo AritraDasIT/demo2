@@ -1,0 +1,1 @@
+print("don't teach ur dad how to fuck")
