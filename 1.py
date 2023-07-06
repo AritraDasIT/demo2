@@ -1,1 +1,1 @@
-print("don't teach ur dad how to fuck")
+print("Bap kya bhi bap hota hain")
